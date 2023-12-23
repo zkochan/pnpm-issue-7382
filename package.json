@@ -1,0 +1,11 @@
+{
+  "pnpm": {
+    "overrides": {
+      "is-positive": "1"
+    }
+  },
+  "dependencies": {
+    "is-odd": "^3.0.1",
+    "is-positive": "2"
+  }
+}
